@@ -5,7 +5,7 @@ import App from "./App.jsx";
 import { BrowserRouter, Route, Routes } from "react-router";
 import CardCompanent from "./companent/Card/CardCompanent.jsx";
 import Navbar from "./companent/Nav/Navbar.jsx";
-import BuyurtmaMadali from "./companent/buyurtmalar/Dastafka/buyurtmaMadali.jsx";
+import BuyurtmaMadali from "./companent/buyurtmalar/Dastafka/BuyurtmaMadali.jsx";
 import Kitoblartoplami from "./companent/buyurtmalar/kitoblar/Kitoblar/Kitoblartoplami.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
